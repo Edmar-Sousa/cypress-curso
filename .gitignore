@@ -1,6 +1,7 @@
 .DS_Store
 cypress.env.json
-cypress/downloads/
+cypress/downloads/*
+!cypress/downloads/.gitkeep
 cypress/screenshots/
 cypress/videos/
 node_modules/
